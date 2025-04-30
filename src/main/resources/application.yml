@@ -4,3 +4,9 @@ server:
 spring:
   application:
     name: deployment
+
+  devtools:
+    livereload:
+      enabled: true
+    restart:
+      enabled: true
